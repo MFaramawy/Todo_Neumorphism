@@ -1,16 +1,13 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Add_Task.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Bottom_Sheet.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_1.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_2.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Splash.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Task_Desgin.png" align="right"/>
+<img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Tasks_Screen.png" align="right"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
