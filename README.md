@@ -6,10 +6,10 @@
 # Screens
 
 <p>
-<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Splash.png" align="center"/>
-<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_1.png" align="center"/>
-<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_2.png" align="center"/>
-<img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Task_Desgin.png" align="center"/>
+<img alt="Night Coding" width="320" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Splash.png" align="center"/>
+<img alt="Night Coding" width="320" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_1.png" align="center"/>
+<img alt="Night Coding" width="320" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/OnBoarding_2.png" align="center"/>
+<img alt="Night Coding" width="320" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Task_Desgin.png" align="center"/>
 </p>
 <p>
 <img alt="Night Coding" width="300" src="https://github.com/MFaramawy/Todo_Neumorphism/blob/master/assets/layout/Tasks_Screen.png" align="center"/>
